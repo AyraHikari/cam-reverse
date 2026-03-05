@@ -43,3 +43,4 @@ export const loadConfig = (path: string) => {
 };
 
 export { config };
+
